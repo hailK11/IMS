@@ -120,3 +120,17 @@ nav:hover .forAnimate {
 section {
   padding-left: 15px;
 }
+
+.row {
+  margin-top: 40px;
+  padding: 0 10px;
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+.panel-heading span {
+  margin-top: -20px;
+  font-size: 15px;
+}
